@@ -1,5 +1,5 @@
 body {
-    color: #808000; /* olive */
+    color: #808000;
     font-size: 30pt;
 }
 
@@ -11,7 +11,6 @@ p {
     font-size: 20pt;
 }
 
-/* naprzemiennie */
 p:nth-of-type(odd) {
     color: purple;
 }
