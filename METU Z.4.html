@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Metuszek Z4_html</title>
+</head>
+
+<body style="font-family: Arial; font-size: 16px;">
+
+<h1>Sposoby podłączania CSS do strony WWW</h1>
+
+<!-- 1 -->
+<table border="1" cellpadding="10">
+<tr>
+<td>
+<b><u>1. Styl liniowy (inline)</u></b><br><br>
+<textarea rows="4" cols="60">
+<p style="color:red;">Tekst</p>
+</textarea>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- 2 -->
+<table border="1" cellpadding="10">
+<tr>
+<td>
+<b><u>2. Styl wewnętrzny (internal)</u></b><br><br>
+<textarea rows="6" cols="60">
+<style>
+p {
+    color: red;
+}
+</style>
+</textarea>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- 3 -->
+<table border="1" cellpadding="10">
+<tr>
+<td>
+<b><u>3. Styl zewnętrzny (external)</u></b><br><br>
+<textarea rows="6" cols="60">
+<link rel="stylesheet" href="style.css">
+
+/* w pliku CSS */
+p {
+    color: red;
+}
+</textarea>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- 4 -->
+<table border="1" cellpadding="10">
+<tr>
+<td>
+<b><u>4. Import CSS (@import)</u></b><br><br>
+<textarea rows="5" cols="60">
+<style>
+@import url("style.css");
+</style>
+</textarea>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- 5 -->
+<table border="1" cellpadding="10">
+<tr>
+<td>
+<b><u>5. Styl przeglądarki (domyślny)</u></b><br><br>
+<textarea rows="3" cols="60">
+Brak CSS – używane są style domyślne przeglądarki
+</textarea>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
