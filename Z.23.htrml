@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<link herf="C:\Users\2F_2\Desktop\Z.23_folder\Z.23_css.css" rel="stylesheet">
+    <title>Metuszek Z.23_html</title>
+</head>
+
+<body>
+
+<p id="1">Jakub Metuszek
+<br>
+Dowcip1
+<br>
+Dlaczego programiści lubią ciemność? Bo light theme boli oczy, ale głównie duszę</p>
+<p id="2">Jakub Metuszek
+<br>
+Dowcip2
+<br>
+Ile programistów potrzeba do wykręcenia żarówki? Żadnego – to problem hardware'owy</p>
+<p id="3">Jakub Metuszek
+<br>
+Dowcip3
+<br>
+Co mówi informatyk, gdy komputer się zawiesza? To nie bug, to feature</p>
+<p id="4">Jakub Metuszek
+<br>
+Dowcip4
+<br>
+Programista idzie spać o 3:00: Jeszcze tylko ten jeden bug... Budzi się o 11:00: "Fuck, zapomniałem zapisać</p>
+
+</body>
