@@ -8,22 +8,22 @@
 
 <body>
 
-<p id="1">Jakub Metuszek
+<p id="a">Jakub Metuszek
 <br>
 Dowcip1
 <br>
 Dlaczego programiści lubią ciemność? Bo light theme boli oczy, ale głównie duszę</p>
-<p id="2">Jakub Metuszek
+<p id="b">Jakub Metuszek
 <br>
 Dowcip2
 <br>
 Ile programistów potrzeba do wykręcenia żarówki? Żadnego – to problem hardware'owy</p>
-<p id="3">Jakub Metuszek
+<p id="c">Jakub Metuszek
 <br>
 Dowcip3
 <br>
 Co mówi informatyk, gdy komputer się zawiesza? To nie bug, to feature</p>
-<p id="4">Jakub Metuszek
+<p id="d">Jakub Metuszek
 <br>
 Dowcip4
 <br>
