@@ -1,14 +1,39 @@
-p#Metuszeka{
-font-size:34;
-font-weight:900;
-color:#E1B668;
+p#pogrubienie_Metuszek {
+    font-size: 25px + 11px;
+    color: #7D32C8;
+    font-weight: bold;
 }
-p#Metuszekb{
 
+p#pochylona_Metuszek {
+    font-size: 30px + 11px;
+    color: #E19464;
+    font-style: italic;
 }
-p#Metuszekc{
 
+p#index_gorny_Metuszek {
+    font-size: 0.5cm + 0.1cm * 11;
+    color: #91A4D8;
+    vertical-align: super;
 }
-p#Metuszekd{
 
+p#index_dolny_Metuszek {
+    font-size: 0.5cm + 0.2cm * 11;
+    color: #2D82D9;
+    vertical-align: sub;
+}
+
+p#mono_Metuszek {
+    font-size: 35px + 11px;
+    color: #11B464;
+    font-family: "Courier New", Courier, monospace;
+}
+
+p#powiekszenie_Metuszek {
+    color: #4B86D3;
+    font-size: 20px;
+}
+
+p#pomniejszenie_Metuszek {
+    color: #B57A32;
+    font-size: 12px;
 }
